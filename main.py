@@ -51,7 +51,7 @@ def return_book(book_name):
 
 books = load_books()
 while True:
-    user_cmd = input(">").strip()
+    user_cmd = input("> ").strip()
     if user_cmd == "list books":
         list_books()
     elif user_cmd.startswith("borrow book"):
