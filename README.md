@@ -1,6 +1,7 @@
+Initiate project: python3 main.py
+
 User commands:
-python3 main.py
-> list books
-> borrow book <bookname>
-> return book <bookname>
-> exit
+list books
+borrow book <bookname>
+return book <bookname>
+exit
